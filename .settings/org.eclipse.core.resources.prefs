@@ -1,0 +1,10 @@
+#Tue Feb 28 22:12:51 CST 2017
+eclipse.preferences.version=1
+encoding//src/com/hust/yxx/nio/TestBlockingNIO.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestBlockingNIO2.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestBuffer.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestChannel.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestNIO_2.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestNonBlockingNIO.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestNonBlockingNIO2.java=UTF-8
+encoding//src/com/hust/yxx/nio/TestPipe.java=UTF-8
